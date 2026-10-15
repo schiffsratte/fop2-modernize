@@ -75,8 +75,8 @@ the functionality of the FOP2 interface.
 -   Freepbx 17
 
 ## Disclaimer
-
-    This script is provided as-is. The author do not take responsibility for any data loss or system issues that may arise from using this script. Use it at your own risk.
+    This script is provided as-is. The author do not take responsibility for any data loss
+    or system issues that may arise from using this script. Use it at your own risk.
 
 ## License
   My modifications do not change the program's license in any form.
