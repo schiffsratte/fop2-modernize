@@ -281,8 +281,10 @@ function downloadfile($filename) {
 }
 
 function delete_recording($obj) { 
-    $filename = ($obj[filename]); 
-    unlink($filename);
+    $filename = getFullRecordingPath($obj['filename']);
+    if($filename!='') {
+        unlink($filename);
+    }
 }
 
 function getFullRecordingPath($file) {
