@@ -74,3 +74,11 @@ the functionality of the FOP2 interface.
 -   FOP2 with bundled `libmysqlclient.so.15`
 -   Freepbx 17
 
+## Disclaimer
+
+    This script is provided as-is. The author do not take responsibility for any data loss or system issues that may arise from using this script. Use it at your own risk.
+
+## License
+  My modifications do not change the program's license in any form.
+  Go to https://www.fop2.com/ for details or buy a license here :  https://www.fop2.com/buy.php
+  
